@@ -1,10 +1,12 @@
 ## 👋 Hello, I'm Omkar Kirdavkar
 🎓 Computer Science Student<br>
-👨‍💻 Passionate Developer | Computer Science Student<br>
-💡 Interested in Frontend Development, Backend Development & Full Stack Projects<br>
-🔨 Building projects using Node.js, Express & MongoDB<br>
-📈 Always learning and improving problem-solving skills<br>
-🎯 Goal: Become a skilled Full Stack Developer<br>
+
+👨‍💻 Aspiring Full Stack Developer<br>
+💡 Passionate about Web Development and Problem Solving<br>
+⚡ Building projects with HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB<br>
+🚀 Exploring modern technologies and development best practices<br>
+📚 Continuously learning and enhancing technical skills<br>
+🎯 Goal: To become a skilled Full Stack Developer and build impactful applications<br>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
