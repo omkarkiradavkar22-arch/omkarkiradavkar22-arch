@@ -4,13 +4,13 @@
 
 Passionate about building modern web applications and solving real-world problems through technology. Currently exploring the MERN Stack and continuously improving my development skills through hands-on projects.
 
-🌱 Currently Learning:
+ Currently Learning:
 - Advanced React.js
 - Node.js & Express.js
 - MongoDB & Database Design
 - REST APIs & Backend Development
 
-🚀 What I Do:
+ What I Do:
 - Build responsive web applications
 - Develop full-stack projects using MERN Stack
 - Practice problem-solving and coding fundamentals
